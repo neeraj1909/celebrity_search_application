@@ -1,0 +1,24 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+venv/
+
+# OS generated files
+.DS_Store
+
+# Build output
+dist/
+
+# Cache
+.cache/
+__pycache__/
+
+
+# Ignore constants.py where the API key is saved
+constants.py
